@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447385331384",
+    "firebase_url": "https://chatapp-f92cb.firebaseio.com",
+    "project_id": "chatapp-f92cb",
+    "storage_bucket": "chatapp-f92cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447385331384:android:c32c20b3ae5b9e9f",
+        "android_client_info": {
+          "package_name": "com.arghadeep.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447385331384-lffttjvp3qvak76og0moj0ddb2o4ru0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arghadeep.chatapp",
+            "certificate_hash": "10246bffda26e2dec4b9c582fe95bd71964619b7"
+          }
+        },
+        {
+          "client_id": "447385331384-nf9n43njkkn41ltrvk2k7nuqi27g7kak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHAKcdRafDrXZyj6Ssc5EFFJH6jmYW1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447385331384-nf9n43njkkn41ltrvk2k7nuqi27g7kak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
